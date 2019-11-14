@@ -1,0 +1,91 @@
+h1 {
+    font-family: Raleway; 
+    color: #bc7256; 
+    font-size: 52px; 
+}
+
+h2 {
+    font-family: Raleway; 
+    color: #ffffff; 
+    font-size: 50px; 
+    margin-right: 20px;
+    text-align: right;
+}
+
+h3 {
+    font-family: Raleway light; 
+    color: #ffffff; 
+    font-size: 24px; 
+    margin-right: 20px;
+    text-align: right;
+}
+
+h4 {
+    font-family: Raleway; 
+    color: #ffffff; 
+    font-size: 50px; 
+    margin-right: 20px;
+    text-align: right;
+    margin-top: 350px;
+}
+
+h5 {
+    font-family: Raleway light; 
+    color: #ffffff; 
+    font-size: 24px; 
+    margin-right: 20px;
+    text-align: right;
+}
+
+h6 {
+    font-family: Raleway light; 
+    color: #ffffff; 
+    font-size: 24px; 
+    margin-right: 20px;
+    text-align: right;
+}
+
+.block1 {
+    height: 2000px;
+    width: 780px; 
+    background-color: white;
+    margin-left: 800px;
+    position: absolute;
+}
+
+.block3 {
+    height: 580px;
+    width: 760px;
+    background-color: white;
+    position: absolute;
+    margin-left: 810px;
+    margin-top: 10px 
+}
+
+main {
+    background-color: rgb(240, 156, 123); 
+    width: 800px; 
+    height: 2330px;
+    position: absolute;
+}
+
+    .img1 {
+    position: absolute;
+    float: left; 
+    margin-left: 810px; 
+    margin-top: 0px; 
+    }
+
+    .img2 {
+    position: absolute;
+    float: left; 
+    margin-left: 810px; 
+    margin-top: 700px;
+    }
+
+    .img3 {
+    position: absolute;
+    float: left; 
+    margin-left: 810px; 
+    margin-top: -300px;
+    }
